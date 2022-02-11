@@ -6,7 +6,7 @@ Other purpose specific GitHub organizations related with the activity of the gro
 * [ULL-ProDef](https://github.com/ULL-prodef) A tool that allows the definition of combinatorial optimization problems at an abstract level of description and their subsequent resolution
 * [TOMAS-MORPH](https://github.com/Tomas-Morph) Meta-heuristics for the Optimisation of Resources and Problems in Health
 * [Computational-Thinking](https://github.com/Computational-Thinking) 
-
+* [gh-cli-for-education](https://github.com/gh-cli-for-education) For people interested in adding gh-cli extensions for Education
 
 The group at ULL Research Site
 
