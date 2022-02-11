@@ -1,5 +1,5 @@
-Bienvenido a la Organización GitHub del grupo de Investigación *Algoritmos y  Lenguajes Paralelos* 
-Otras organizaciones del Grupo:
- 
+Welcome to the GitHub Organization of the Research Group "Parallelism, Algorithms and Languages" at Universidad de La Laguna
+
  * [GeneticsJS](https://github.com/GeneticsJS)
  * [ULL-ProDef](https://github.com/ULL-prodef)
+ * [PAL](https://portalciencia.ull.es/grupos/6550/detalle) at ULL
